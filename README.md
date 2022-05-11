@@ -33,10 +33,10 @@ Extras:
 
   
 ## :paperclip:Link:paperclip:
-
+https://jesscereja.github.io/Decodificador_de_Texto/
 
 
 ## :clapper:Captura de tela:clapper:
-
+https://user-images.githubusercontent.com/84471000/167750400-facc02da-c67f-466f-9848-c27778a785e5.mp4
 
 <img align="center" alt="pic" height="250" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/937094868164050955/937095462836637707/9.png">
